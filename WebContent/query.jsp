@@ -7,6 +7,9 @@
 <title>Insert query </title>
 </head>
 <body>
+
+  
+ 
 <form action="execute" method="post">
    
    <h1>
